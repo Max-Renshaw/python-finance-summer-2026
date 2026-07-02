@@ -1,10 +1,10 @@
 # Quantitative Portfolio Risk & Telemetry Dashboard
 
-Welcome to my independent quantitative research and data engineering project. This repository contains a production-ready Python web application designed to model investment asset risk-reward metrics and visualize high-frequency performance telemetry.
+Welcome to my independent quantitative research and data engineering project. This repository contains a production-ready Python web application designed to model investment asset risk-reward metrics and visualise high-frequency performance telemetry.
 
 ## Core Analytical Architecture
 
-1. **Systematic Portfolio Risk Optimizer:**
+1. **Systematic Portfolio Risk Optimiser:**
    * **Data Ingestion:** Automated time-series pipelines pulling historical asset pricing matrices via the `yfinance` API.
    * **Risk Modeling:** Programmed automated calculations for rolling 50-day moving averages, historical asset volatility (Standard Deviation), and systematic risk (**CAPM Beta**).
    * **Wharton Compliance Engine:** Integrated a structural screening algorithm to validate incoming tickers against the strict, restricted asset universe of the **Wharton Global High School Investment Competition**.
@@ -20,4 +20,4 @@ Welcome to my independent quantitative research and data engineering project. Th
 * **Visualization:** Plotly Graphic Objects (Interactive candlestick mapping and 2D spatial track coordinate plotting)
 
 ## Core Career Objectives
-This project was engineered ahead of starting Year 12 (Specializing in Mathematics, Further Mathematics, Physics, and Economics) to prepare for a future **Buy-Side Asset Management or Quantitative Finance Degree Apprenticeship**.
+This project was engineered ahead of starting Year 12 (Studying Mathematics, Further Mathematics, Physics, and Economics) to prepare for a future **Asset Management or Quantitative Finance Degree Apprenticeship**.
